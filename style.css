@@ -1,0 +1,10 @@
+#video{
+    width:100%;
+    height:900px;
+}
+body{
+    text-align: center;
+}
+.announcement{
+    background-color:deepskyblue
+}
